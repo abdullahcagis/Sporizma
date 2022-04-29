@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\Sporizma\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\lenovo\source\repos\Sporizma\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\lenovo\source\repos\Sporizma\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Sporizma\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Sporizma\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\lenovo\source\repos\Sporizma\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\oyuncuveantrenor\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\lenovo\OneDrive\Masaüstü\oyuncuveantrenor\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\oyuncuveantrenor\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\oyuncuveantrenor\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\oyuncuveantrenor\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\lenovo\OneDrive\Masaüstü\oyuncuveantrenor\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
