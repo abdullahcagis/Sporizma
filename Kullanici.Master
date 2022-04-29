@@ -1,0 +1,59 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Kullanici.master.cs" Inherits="Sporizma.Kullanici" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Sporizma - Spor Bloğu </title>
+    <link href="kullanicicss/BlogStil.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+       
+        <nav>
+            <ul>
+                <li>
+                    <a href="Default.aspx">
+                        <img src="resim/LOGO.png" class="logo" />
+                    </a>
+                </li>
+                <li>
+                    <a href="Default.aspx">
+                        Antrenör Antrenmanları
+                    </a>
+                </li>
+                <li>
+                    <a href="OyuncuAntrenman.aspx">
+                        Oyuncu Antrenmanları
+                    </a>
+                </li>                                        
+                <li>
+                     <a href="UyeOl.aspx" class="uyeler">Üye Ol</a>
+                </li>                
+                <li>
+                    <a href="UyeGiris.aspx" class="uyeler1">Üye Giriş</a>
+                </li>
+            </ul>
+        </nav>      
+              <asp:Panel ID="pnl_girisvar" runat="server" CssClass="kullanicipanel" Visible="false">
+                    <asp:Image ID="img_kullanici" runat="server" />
+                    <a href="Profil.aspx">
+                        <asp:Literal ID="ltrl_kullanici" runat="server"></asp:Literal>
+                    </a>
+                    <asp:LinkButton ID="lbtn_cikis" runat="server">Çıkış Yap</asp:LinkButton>
+                </asp:Panel>
+                <div style="clear: both"></div>                           
+            <div class="tasiyici">
+                <div class="iceriktasiyici">
+                    <div style="width:10px;">&nbsp</div>
+                     <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+              </asp:ContentPlaceHolder>
+                </div>              
+            </div>       
+        <div>          
+     </div>
+  </form>
+</body>
+</html>

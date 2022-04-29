@@ -1,0 +1,86 @@
+﻿
+.girisPanel {
+    width: 800px;
+    min-height: 300px;
+    border-radius: 7px;
+    margin: 20px auto;
+    color: dimgray;
+}
+
+.baslik {
+    background-color: #dedede;
+    text-align: center;
+    padding: 15px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+
+.form {
+    width: 500px;
+    float: left;
+}
+
+.PanelResim {
+    width: 250px;
+    float: left;
+    padding: 10px;
+}
+    .PanelResim img {
+        width: 100%;
+    }
+
+.icerik {
+    padding: 20px;
+}
+
+.satir {
+    padding-bottom: 25px;
+}
+
+.metinkutu {
+    width: 336px;
+    padding: 7px;
+    margin-top: 5px;
+    border-radius: 3px;
+    border: 1px solid silver;
+}
+
+.hatakutu {
+    border: 1px solid darkred;
+    background-color: #ffd2d2;
+    color: darkred;
+    padding: 15px;
+    border-radius: 7px;
+    margin-bottom: 10px;
+}
+
+.girisbutton {
+    text-align: center;
+    display: block;
+    background-color: #ffb210;
+    padding: 10px;
+    color: white;
+    border-radius: 3px;
+    text-decoration: none;
+    font-size: 13pt;
+}
+.formicerik {
+    padding: 20px;
+}
+.pnlbasarisiz {
+    border: 1px solid darkred;
+    background-color: #ffd2d2;
+    color: darkred;
+    padding: 15px;
+    border-radius: 7px;
+    margin-bottom: 10px;
+}
+
+.pnlbasarili {
+    border: 1px solid #146b03;
+    background-color: #bdf7b1;
+    color: #146b03;
+    padding: 15px;
+    border-radius: 7px;
+    margin-bottom: 10px;
+}

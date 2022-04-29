@@ -1,0 +1,22 @@
+﻿.YorumButon {
+    text-align: center;
+    display: block;
+    background-color: #ffb210;
+    padding: 10px;
+    color: white;
+    border-radius: 3px;
+    text-decoration: none;
+    font-size: 13pt;
+}
+.area{
+    width:430px;
+    height: 50px;
+    margin-left: 300px;
+}
+h3 {
+    margin-left: 470px;    
+}
+h2 {
+    margin-left: 465px;
+    color: #ffb210;
+}
