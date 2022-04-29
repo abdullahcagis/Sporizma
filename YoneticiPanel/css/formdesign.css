@@ -1,0 +1,199 @@
+﻿body {
+    background-image: url('../../resim/group-multiethnic-busy-people-working-office.png');
+    background-size: cover;
+    background-attachment: fixed;
+}
+.formtasiyici {
+    display: inline-block;
+    border: 1px solid silver;
+    border-radius: 7px;
+    width: 70%;
+    margin: 20px 350px;
+    background-color: white;
+}
+.klncformtasiyici {
+    display: inline-block;
+    border: 1px solid silver;
+    border-radius: 7px;
+    width: 70%;
+    background-color: white;
+    margin-left: 120px;
+}
+
+.baslik {
+    background-color: #dedede;
+    padding: 15px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    color: #012E40;
+}
+.kekleyazi
+{
+    font-size:x-large;
+    margin: 20px 320px;
+}
+
+.icerik {
+    padding: 20px;
+}
+
+.formicerik {
+    padding: 20px;
+}
+
+.satir {
+    padding-bottom: 25px;
+    
+}
+
+.metinkutu {
+    width: 90%;
+    padding: 7px;
+    margin-top: 5px;
+    border-radius: 3px;
+    border: 1px solid silver;
+}
+
+.buton {
+    padding: 10px 30px;
+    border-radius: 7px;
+    color: white;
+    text-decoration: none;
+    font-weight: 900;
+}
+
+    .buton:hover {
+        background-color: #012E40;
+    }
+
+.pnlbasarisiz {
+    border: 1px solid darkred;
+    background-color: #ffd2d2;
+    color: darkred;
+    padding: 15px;
+    border-radius: 7px;
+    margin-bottom: 10px;
+}
+
+.pnlbasarili {
+    border: 1px solid #146b03;
+    background-color: #bdf7b1;
+    color: #146b03;
+    padding: 15px;
+    border-radius: 7px;
+    margin-bottom: 10px;
+}
+
+.tablo {
+    width: 80%;
+    margin: 20px 250px;
+    background-color: white;
+}
+
+    .tablo thead tr th {
+        border: 1px solid #dedede;
+        padding: 10px;
+        background-color: #f5f5f5;
+    }
+
+    .tablo tbody tr td {
+        border: 1px solid #dedede;
+        padding: 17px;
+    }
+
+    .tablo tbody .alt td {
+        border: 1px solid #dedede;
+        padding: 17px;
+        background-color: #f6f6f6;
+    }
+
+.listebuton {
+    padding: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.sil {
+    background-color: #e13f3f;
+    color: white;
+}
+    .sil:hover {
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    }
+
+.duzenle {
+    color: white;
+}
+    
+
+.durum {
+    color: white;
+    background-color: #fe9944;
+}
+    .durum:hover {
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    }
+
+
+.yarim {
+    width: 49%;
+    min-height: 500px;
+    float: left;
+}
+.duzenlebuton {
+    background-color: #012E40;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+   
+    
+}
+    .duzenlebuton:hover {
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    }
+.keklebuton {
+    background-color: #012E40;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 3px 320px;
+}
+    .keklebuton:hover {
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    }
+.listeyazi {
+    font-size: x-large;
+    margin: 20px 650px;
+    color: white;
+}
+.guncelleyazi {
+    font-size: x-large;
+    margin: 20px 300px;
+  
+}
+.guncellebuton {
+    background-color: #012E40;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 3px 310px
+}
+    .guncellebuton:hover {
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    }
+.mekya {
+    background-color: #012E40;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+    display:block;
+    margin: 3px;
+    text-align:center;
+}
+    .mekya:hover {
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    }

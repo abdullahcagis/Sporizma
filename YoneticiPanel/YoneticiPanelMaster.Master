@@ -1,0 +1,47 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="YoneticiPanelMaster.master.cs" Inherits="Sporizma.YoneticiPanel.YoneticiPanelMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="css/AdminLayout.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+         <nav>
+             <ul>
+                 <li>
+                     <a href="Default.aspx" style="font-size:22px">
+                         Sporizma Yönetim
+                     </a>
+                 </li>
+                 <li>
+                     <a href="KategoriEkle.aspx">
+                         Kategori Ekle
+                     </a>
+                 </li>                
+                 <li>
+                     <a href="KategoriListele.aspx">
+                         Kategori Listele
+                     </a>
+                 </li>
+                 <li>
+                     <a href="MakaleEkle.aspx">
+                         Makale Ekle
+                     </a>
+                 </li>
+             </ul>
+         </nav>
+        
+
+        <div class="icerik">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
+
